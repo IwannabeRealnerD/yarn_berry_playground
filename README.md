@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>vite with yarn berry</h1>
+	<h1>yarn berry - pnp, zero install</h1>
 	<a href="https://iwannaberealnerd.oopy.io/yarnberry_vs_pnpm">게시글 본문 링크</a>
 </div>
 
